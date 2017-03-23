@@ -1,0 +1,87 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  4.558 seconds
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\S2 PG2201 - Unity\Eksamen\Ghoultlet Runner Final\GhoultletRunner_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.243259 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 93c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.889283 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.183308 ms (FindLiveObjects: 0.029234 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.133925 ms  DeleteObjects: 0.005530 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.322765 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.225185 ms (FindLiveObjects: 0.024888 ms CreateObjectMapping: 0.028049 ms MarkObjects: 0.164740 ms  DeleteObjects: 0.007111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.384000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.237037 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.177777 ms  DeleteObjects: 0.007901 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.344888 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.254024 ms (FindLiveObjects: 0.020543 ms CreateObjectMapping: 0.017382 ms MarkObjects: 0.207802 ms  DeleteObjects: 0.007901 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553481 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1201.
+Total: 0.437333 ms (FindLiveObjects: 0.058469 ms CreateObjectMapping: 0.035160 ms MarkObjects: 0.329481 ms  DeleteObjects: 0.013827 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.221135 ms
+
+Unloading 358 unused Assets to reduce memory usage. Loaded Objects now: 422.
+Total: 1.609481 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.040691 ms MarkObjects: 0.270222 ms  DeleteObjects: 1.261827 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973432 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1234.
+Total: 2.043259 ms (FindLiveObjects: 0.220839 ms CreateObjectMapping: 0.172246 ms MarkObjects: 1.509925 ms  DeleteObjects: 0.138666 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.710617 ms
+
+Unloading 358 unused Assets to reduce memory usage. Loaded Objects now: 425.
+Total: 2.932148 ms (FindLiveObjects: 0.056493 ms CreateObjectMapping: 0.065185 ms MarkObjects: 0.459456 ms  DeleteObjects: 2.350222 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.480395 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.372148 ms (FindLiveObjects: 0.024493 ms CreateObjectMapping: 0.018962 ms MarkObjects: 0.276938 ms  DeleteObjects: 0.050962 ms)
+
